@@ -34,6 +34,18 @@ labels:
     severity: critical
 ```
 
+## make images
+
+```sh
+make docker
+```
+
+## Compile
+
+```sh
+make build
+``` 
+
 ## ENV
 
 Using environment variables NFS_SERVER, NFS_PATH to point the external NFS server.
