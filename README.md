@@ -3,7 +3,7 @@ Externel NFS Storage Health Check
 
 # Check Externel NFS
 
-[![Docker Pulls](https://hub.docker.com/r/aixeshunter/nfs-health-check/)][hub]
+[Docker Pulls](https://hub.docker.com/r/aixeshunter/nfs-health-check/)
 
 ## NFS Storage, Prometheus and k8s cluster
 
