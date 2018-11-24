@@ -1,6 +1,9 @@
 Externel NFS Storage Health Check
 ======
 
+# [Deprecated]
+Please see new project - [nfs-exporter](https://github.com/aixeshunter/nfs_exporter)
+
 # Check Externel NFS
 
 [Docker Pulls](https://hub.docker.com/r/aixeshunter/nfs-health-check/)
